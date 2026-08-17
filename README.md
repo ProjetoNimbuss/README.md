@@ -80,4 +80,3 @@ APIs & Scraping → MinIO (Data Lake) → DuckDB → dbt → FastAPI → Next.js
 *Dados que salvam vidas.*
 
 </div>
-# README.md
