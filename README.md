@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vinihoudini/rmr-alertas/main/docs/assets/nimbus_logo.jpg" alt="Nimbus — Sistema de Monitoramento e Alertas" width="420"/>
+<img src="https://raw.githubusercontent.com/vinihoudini/rmr-alertas/main/docs/assets/nimbus_logo.png" alt="Nimbus — Sistema de Monitoramento e Alertas" width="420"/>
 
 
 **Sistema Integrado de Dados e Alertas Meteorológicos**
